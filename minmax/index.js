@@ -1,4 +1,4 @@
-const arr=[23,43,54,67,77,90]
+const arr=[23,43,54,67,77,90,30,2]
 var min= arr[0];
 var max =arr[0];
 
