@@ -10,5 +10,5 @@ for(i=0;i<arr.length;i++){
         max = arr[i];
     }
 }
-
+console.log(min);
 console.log(max);
